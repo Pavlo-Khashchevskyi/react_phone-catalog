@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "./static/css/main.fbdbcca9.chunk.css",
-    "main.js": "./static/js/main.85ac09ac.chunk.js",
-    "main.js.map": "./static/js/main.85ac09ac.chunk.js.map",
+    "main.css": "./static/css/main.e380a0f3.chunk.css",
+    "main.js": "./static/js/main.005141fc.chunk.js",
+    "main.js.map": "./static/js/main.005141fc.chunk.js.map",
     "runtime-main.js": "./static/js/runtime-main.330dba63.js",
     "runtime-main.js.map": "./static/js/runtime-main.330dba63.js.map",
     "static/js/2.6179c940.chunk.js": "./static/js/2.6179c940.chunk.js",
     "static/js/2.6179c940.chunk.js.map": "./static/js/2.6179c940.chunk.js.map",
     "index.html": "./index.html",
-    "static/css/main.fbdbcca9.chunk.css.map": "./static/css/main.fbdbcca9.chunk.css.map",
+    "static/css/main.e380a0f3.chunk.css.map": "./static/css/main.e380a0f3.chunk.css.map",
     "static/js/2.6179c940.chunk.js.LICENSE.txt": "./static/js/2.6179c940.chunk.js.LICENSE.txt",
-    "static/media/ProductDetailsPage.scss": "./static/media/home.70b67786.svg",
+    "static/media/ProductDetailsPage.scss": "./static/media/home.e110292a.svg",
     "static/media/Footer.scss": "./static/media/go-to-up.3ffcd791.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.330dba63.js",
     "static/js/2.6179c940.chunk.js",
-    "static/css/main.fbdbcca9.chunk.css",
-    "static/js/main.85ac09ac.chunk.js"
+    "static/css/main.e380a0f3.chunk.css",
+    "static/js/main.005141fc.chunk.js"
   ]
 }
