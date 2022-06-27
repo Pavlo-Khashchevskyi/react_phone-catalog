@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "./static/css/main.849472f4.chunk.css",
-    "main.js": "./static/js/main.3f28e9a1.chunk.js",
-    "main.js.map": "./static/js/main.3f28e9a1.chunk.js.map",
+    "main.css": "./static/css/main.3ce46b50.chunk.css",
+    "main.js": "./static/js/main.3ada0bb2.chunk.js",
+    "main.js.map": "./static/js/main.3ada0bb2.chunk.js.map",
     "runtime-main.js": "./static/js/runtime-main.330dba63.js",
     "runtime-main.js.map": "./static/js/runtime-main.330dba63.js.map",
     "static/js/2.6179c940.chunk.js": "./static/js/2.6179c940.chunk.js",
     "static/js/2.6179c940.chunk.js.map": "./static/js/2.6179c940.chunk.js.map",
     "index.html": "./index.html",
-    "static/css/main.849472f4.chunk.css.map": "./static/css/main.849472f4.chunk.css.map",
+    "static/css/main.3ce46b50.chunk.css.map": "./static/css/main.3ce46b50.chunk.css.map",
     "static/js/2.6179c940.chunk.js.LICENSE.txt": "./static/js/2.6179c940.chunk.js.LICENSE.txt",
     "static/media/ProductDetailsPage.scss": "./static/media/home.70b67786.svg",
     "static/media/Footer.scss": "./static/media/go-to-up.3ffcd791.svg"
@@ -16,7 +16,7 @@
   "entrypoints": [
     "static/js/runtime-main.330dba63.js",
     "static/js/2.6179c940.chunk.js",
-    "static/css/main.849472f4.chunk.css",
-    "static/js/main.3f28e9a1.chunk.js"
+    "static/css/main.3ce46b50.chunk.css",
+    "static/js/main.3ada0bb2.chunk.js"
   ]
 }
